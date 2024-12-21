@@ -61,12 +61,6 @@
   </a>
 </p>
 
-### 📝 Lines of Code
-
-![LOC Langs](https://api.githubtrends.io/user/svg/caoming26/langs?time_range=one_year&theme=dark)
-![LOC Repos](https://api.githubtrends.io/user/svg/caoming26/repos?time_range=one_year&group=other&theme=dark)
-
-
 ### 🏆 Stats & Languages
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caoming26&hide=stars,contribs&show=prs_merged_percentage&show_icons=true&theme=holi&border_color=71a9e&rank_icon=github&line_height=24)
