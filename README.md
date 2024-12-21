@@ -59,16 +59,7 @@
   </a>
 </p>
 
-<style>
-  .icon {
-    transition: transform 0.3s ease, filter 0.3s ease;
-  }
 
-  .icon:hover {
-    transform: scale(1.2);
-    filter: brightness(1.2);
-  }
-</style>
 
 
 
