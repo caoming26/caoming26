@@ -61,9 +61,10 @@
   </a>
 </p>
 
+### 📝 Lines of Code
 
-
-
+![LOC Langs](https://api.githubtrends.io/user/svg/caoming26/langs?time_range=one_year&theme=dark)
+![LOC Repos](https://api.githubtrends.io/user/svg/caoming26/repos?time_range=one_year&group=other&theme=dark)
 
 
 ### 🏆 Stats & Languages
